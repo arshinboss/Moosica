@@ -1,0 +1,6 @@
+{
+  "name": "RetroHiFi",
+  "description": "Vintage audiophile music player with analog aesthetics, gapless playback, local library scanner, and multi-band equalizer presets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
